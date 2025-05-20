@@ -73,7 +73,7 @@ export default function Home() {
           <li className="hover:underline">Dapur ABC : E-Commerce System (Apr 2025 - present) (Freelance)</li>
         </Link>
         <Link href={"https://tascrum.zeabur.app/login"}>
-            <li className="hover:underline">Tascrum : Scrum Task Management System (Apr 2025 - present) (Thesis)</li>
+            <li className="hover:underline">Tascrum : Scrum Task Management System (May 2025 - present) (Thesis)</li>
         </Link>
       </div>
   );
