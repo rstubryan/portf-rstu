@@ -63,7 +63,7 @@ export default function Home() {
         <Link href={"https://hris-payroll.zeabur.app/dashboard"}>
           <li className="hover:underline">HR Payroll : Payroll System (Apr 2025 - present) (Part Time Mentor)</li>
         </Link>
-        <Link href={"https://flexo-fo.zeabur.app"}>
+        <Link href={"https://flexo.zeabur.app"}>
           <li className="hover:underline">Flexo : Sweeping Order System (Apr 2025 - present) (Freelance)</li>
         </Link>
         <Link href={"https://counseling-npu.zeabur.app"}>
@@ -72,7 +72,7 @@ export default function Home() {
         <Link href={"https://dapur-abc.zeabur.app"}>
           <li className="hover:underline">Dapur ABC : E-Commerce System (Apr 2025 - present) (Freelance)</li>
         </Link>
-        <Link href={"https://tascrum.zeabur.app/login"}>
+        <Link href={"https://tascrum.site/login"}>
             <li className="hover:underline">Tascrum : Scrum Task Management System (May 2025 - present) (Thesis)</li>
         </Link>
       </div>
