@@ -183,7 +183,7 @@ export const projects: Projects[] = [
     image: "/images/projects/idbox.png",
     link: "https://dev.v2.telkom.ideaboxapp.com",
     role: "Frontend Developer at MSIB Batch 7: Digital Amoeba Telkom Indonesia",
-    techStack: ["Laravel", "Svelte (JavaScript)", "Bootstrao CSS (SASS)", "Inertia.js", "MySQL", "Quill Editor"],
+    techStack: ["Laravel", "Svelte (JavaScript)", "Bootstrap CSS (SASS)", "Inertia.js", "MySQL", "Quill Editor"],
     year: "2024",
     status: "completed"
   },
@@ -249,7 +249,7 @@ export const projects: Projects[] = [
     image: "/images/projects/scu.png",
     link: "https://counseling-npu.zeabur.app",
     role: "Frontend Web Developer & DevSecOps Engineer at Freelance",
-    techStack: ["React", "Next.js", "Tailwind CSS", "Socket.io"],
+    techStack: ["Laravel", "AlpineJS (JavaScript)", "Tailwind CSS", "Livewire", "MySQL", "WebSockets", "Pusher", "Zeabur"],
     year: "2025",
     status: "completed"
   },
@@ -260,7 +260,7 @@ export const projects: Projects[] = [
     image: "/images/projects/abc.png",
     link: "https://dapur-abc.zeabur.app",
     role: "Frontend Web Developer & DevSecOps Engineer at Freelance",
-    techStack: ["React", "Next.js", "Tailwind CSS", "TanStack Query"],
+    techStack: ["Laravel", "AlpineJS (JavaScript)", "Tailwind CSS", "Livewire", "MySQL", "Filament", "Pusher", "Midtrans Payment Gateway", "Zeabur"],
     year: "2025",
     status: "completed"
   },
